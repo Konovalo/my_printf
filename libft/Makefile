@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: spalmer <spalmer@student.42.fr>            +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/09/10 19:09:18 by heantoni          #+#    #+#              #
-#    Updated: 2020/07/09 00:08:47 by spalmer          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 NAME = libft.a
 SRC = srcs
 FAIL = ft_putchar ft_putstr ft_putnbr ft_strlen ft_memset ft_bzero ft_memcpy \
